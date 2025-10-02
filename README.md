@@ -19,5 +19,5 @@ Bienvenido a **Blogs de Viajes**, un sitio donde exploradores, mochileros y aman
 
 ---
 ## 🛠️ Tecnologías utilizadas
--👌👌👌 solo para personas Interesados.
+- 👌👌👌 solo para personas Interesados.
 - **HTML5 & CSS3**
